@@ -1,3 +1,26 @@
-# Tic-Tac-Toe-game-using-only-C-programming
-To strengthen my logic-building skills and deepen my understanding of 2D arrays, condition checking, and control flow in C.
+# 🎮 Tic Tac Toe Game in C
 
+A simple **2-player Tic Tac Toe** game built using basic C programming. This project was created to strengthen my understanding of 2D arrays, conditional logic, and control structures in C.
+
+## 🚀 Features
+
+- Two-player console-based gameplay
+- Turn-based logic
+- Input validation for moves
+- Win and draw detection
+- Clear and simple UI using text-based grid
+
+## 🧠 Concepts Used
+
+- 2D arrays
+- Loops and conditionals
+- Functions for modular code
+- Switch-case and if-else logic
+- Console input/output
+
+## 💻 How to Run
+
+1. Clone the repository:
+   ---> https://www.onlinegdb.com/edit/zYBVZFSE7
+   ---> https://github.com/Anilvasy/Tic-Tac-Toe-game-using-C-programming
+   
