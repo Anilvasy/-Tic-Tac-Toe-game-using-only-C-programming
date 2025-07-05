@@ -23,4 +23,10 @@ A simple **2-player Tic Tac Toe** game built using basic C programming. This pro
 1. Clone the repository:
    ---> https://www.onlinegdb.com/edit/zYBVZFSE7
    ---> https://github.com/Anilvasy/Tic-Tac-Toe-game-using-C-programming
+
+📚 Learning Outcome
+
+-Improved my problem-solving and logic development skills
+-Gained hands-on practice with core C programming fundamentals
+-Learned to organize code using functions and reusable logic
    
